@@ -1,6 +1,0 @@
-Motor	KEYWORD1
-getMotorSpeed	KEYWORD2
-isMotorRunning	KEYWORD2
-setMotorSpeed	KEYWORD2
-stopMotor	KEYWORD2
-startMotor	KEYWORD2
